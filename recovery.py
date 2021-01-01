@@ -7,7 +7,6 @@ Created on Mon Dec  7 14:16:51 2020.
 import tkinter as tk
 import math
 
-
 rar = [[1000, 200, 125, 30, 12, 4], [600, 120, 100, 3, 4, 1]]
 div = [[1, 1, 1, 16, 16, 8], [1, 1, 1, 100, 16, 8]]
 qual_d = {0: "Unique", 1: "Rare", 2: "Set", 3: "Magic",
